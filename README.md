@@ -25,8 +25,8 @@
 
 ### Resumo
 
-- 💻 Trabalho atualmente como estagiário na **Geocomp Systems**.
-- 📚 Cursando **Ciência da Computação** na **Universidade Federal do Ceará**.
+- 💻 Trabalha atualmente como estagiário na **Geocomp Systems**.
+- 📚 Cursa **Ciência da Computação** na **Universidade Federal do Ceará**.
 - 💙 Interesses: jogos, livros e animes.
 
 ### Linguagens e Ferramentas
