@@ -9,14 +9,14 @@
     <img
       align="center"
       height="123"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gardeljunior&layout=compact&custom_title=Linguagens%20Mais%20Utilizadas"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gardeljunior&theme=radical&layout=compact&custom_title=Linguagens%20Mais%20Utilizadas"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="123"
-      src="https://github-readme-stats.vercel.app/api?username=gardeljunior&count_private=true&show_icons=true&custom_title=Status%20do%20Github&hide=issues,prs"
+      src="https://github-readme-stats.vercel.app/api?username=gardeljunior&theme=radical&count_private=true&show_icons=true&custom_title=Status%20do%20Github&hide=issues,prs"
     />
   </a>
 </p>
