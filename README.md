@@ -39,16 +39,8 @@
     target="_blank"
   >
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
       alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
       width="40"
       height="40"
     />
@@ -63,7 +55,7 @@
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"
       alt="mongodb"
       width="40"
       height="40"
@@ -71,7 +63,7 @@
   </a>
   <a href="https://www.mysql.com" target="_blank">
     <img
-      src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
       alt="MySQL"
       width="40"
       height="40"
@@ -79,7 +71,7 @@
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
       alt="react"
       width="40"
       height="40"
@@ -95,7 +87,7 @@
   </a>
   <a href="https://www.java.com/pt-BR/" target="_blank">
     <img
-      src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"
       alt="java"
       width="40"
       height="40"
@@ -111,7 +103,7 @@
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
       alt="typescript"
       width="40"
       height="40"
