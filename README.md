@@ -25,7 +25,7 @@
 
 ### Resumo
 
-- 💻 Trabalha atualmente como estagiário na **Geocomp Systems**.
+- 💻 Trabalha atualmente como Analista de Desenvolvimento de Sistemas no **Instituto Atlântico**.
 - 📚 Cursa **Ciência da Computação** na **Universidade Federal do Ceará**.
 - 💙 Interesses: jogos, livros e animes.
 
