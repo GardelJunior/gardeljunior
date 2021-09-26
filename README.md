@@ -26,7 +26,7 @@
 ### Resumo
 
 - 💻 Trabalha atualmente como Analista de Desenvolvimento de Sistemas no **Instituto Atlântico**.
-- 📚 Cursa **Ciência da Computação** na **Universidade Federal do Ceará**.
+- 📚 Cursa **Ciência da Computação**.
 - 💙 Interesses: jogos, livros e animes.
 
 ### Linguagens e Ferramentas
