@@ -26,7 +26,7 @@
 ### Resumo
 
 - 💻 Trabalha atualmente como Analista de Desenvolvimento de Sistemas (Pleno) no **Instituto Atlântico**.
-- 📚 Cursa **Ciência da Computação**.
+- 📚 É formado em **Ciência da Computação**.
 - 💙 Interesses: jogos, livros e animes.
 
 ### Linguagens e Ferramentas
